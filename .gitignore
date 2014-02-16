@@ -14,3 +14,9 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#ignore IDE config
+.idea
+
+#ignore db config
+config/database.yml
