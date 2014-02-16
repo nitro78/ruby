@@ -7,7 +7,7 @@ class HomeController < ActionController::Base
     #head :ok
     ###
     ###
-    #masterrr
+    #master
   end
 
 end
