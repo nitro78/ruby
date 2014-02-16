@@ -4,12 +4,7 @@ class HomeController < ActionController::Base
   protect_from_forgery with: :exception
 
   def index
-    #head :ok
-    ###
-    ###
-    #master
-    #work work work
-    #more work
+    head :ok
   end
 
 end
