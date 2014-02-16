@@ -5,7 +5,6 @@ class HomeController < ActionController::Base
 
   def index
     head :ok
-    #work
   end
 
 end
