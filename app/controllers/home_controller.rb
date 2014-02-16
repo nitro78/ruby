@@ -8,7 +8,7 @@ class HomeController < ActionController::Base
     ###
     ###
 
-    #work work work...
+    #work work work
   end
 
 end
